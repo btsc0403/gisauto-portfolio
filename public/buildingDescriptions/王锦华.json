@@ -1,0 +1,37 @@
+{
+  "building_name": "王锦华",
+  "measureName": "王锦华",
+  "city": "桂林市",
+  "county": "永福县",
+  "build_year": "清（1644-1911年）",
+  "address": "罗锦镇白头岩屯",
+  "A2_content": "罗锦白童岩古民居区位于永福县罗锦镇下村村白头岩屯，距镇区仅1公里，房屋横竖排列整齐，风貌整体为岭南风格，房屋用料为青砖灰瓦，古巷纵横，形成了具有独特岭南风格的古建筑房屋朝向（坐北朝南）。单座房屋规模长约14米，宽约12米，整体古民居区域占地约5亩，建筑面积2000余平方，现古民居风貌保存较好，具有一定的开发保护价值。",
+  "status": "PASS",
+  "publishTime": "2021-12-01 00:00:00",
+  "cityType": "国家历史文化名城",
+  "measureFlag": "0",
+  "publishInfo": "已发布",
+  "cityLevel": "自治区级",
+  "historicalBuildtFiles": [
+    {
+      "createBy": null,
+      "createTime": null,
+      "updateBy": null,
+      "updateTime": null,
+      "fileHistoricalBuildId": "BUILD202206180107",
+      "fileId": "FILE202206220571",
+      "fileName": "关于公布永福县历史建筑的批复.pdf",
+      "fileTypeId": "bdrIsHistoryBuildFileFileSeq",
+      "fileType": "是否已批准公布为历史建筑",
+      "filePath": "/data/iui/web/upload/5fa190ba28284f79bdc3a9c6fc9bdfa3.pdf",
+      "fileExt": "pdf",
+      "fileSpace": null,
+      "fileUserId": null,
+      "fileUserName": null
+    }
+  ],
+  "disclosureTime": "2021-12-01",
+  "disclosureFlag": "1",
+  "districtCode": "450326000000",
+  "source": "GX_Buildings"
+}

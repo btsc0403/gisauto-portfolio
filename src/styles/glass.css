@@ -1,0 +1,172 @@
+/*
+ * 双主题液态玻璃效果系统 (Liquid Glass)
+ * 灵感来源：Apple Liquid Glass — 高透明度、光线折射、柔和边框
+ * 通过 data-theme 属性切换主题
+ */
+
+/* ================================================
+ * 默认主题 — 银灰
+ * ================================================ */
+:root,
+[data-theme="default"] {
+  --glass-bg: rgba(255, 255, 255, 0.10);
+  --glass-border: rgba(255, 255, 255, 0.32);
+  --glass-hover-border: rgba(190, 120, 120, 0.55);
+  --glass-blur: 16px;
+  --glass-shadow:
+    0 1px 1px rgba(255, 255, 255, 0.4) inset,
+    0 4px 24px rgba(0, 0, 0, 0.05),
+    0 1px 3px rgba(0, 0, 0, 0.03);
+  --glass-radius: 16px;
+  --glass-hover-shadow:
+    0 1px 1px rgba(255, 255, 255, 0.55) inset,
+    0 6px 28px rgba(0, 0, 0, 0.09),
+    0 2px 6px rgba(0, 0, 0, 0.04);
+  --glass-highlight: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.25) 0%,
+    rgba(255, 255, 255, 0.03) 40%,
+    rgba(255, 255, 255, 0.0) 60%,
+    rgba(255, 255, 255, 0.08) 100%
+  );
+
+  --header-bg: rgba(215, 220, 225, 0.22);
+  --header-border: rgba(180, 188, 198, 0.35);
+  --header-blur: 20px;
+  --header-brand: #6b7280;
+  --header-text: #6b7280;
+  --header-active: #9C0000;
+
+  --footer-bg: rgba(215, 220, 225, 0.22);
+  --footer-blur: 16px;
+  --footer-text: #6b7280;
+  --footer-brand: #6b7280;
+
+  --chat-bg: rgba(255, 255, 255, 0.10);
+  --chat-border: rgba(200, 155, 155, 0.22);
+  --chat-msg-bg: rgba(225, 200, 200, 0.38);
+  --chat-msg-border: rgba(200, 160, 160, 0.28);
+  --chat-user-bg: rgba(215, 220, 225, 0.42);
+  --chat-user-border: rgba(180, 188, 198, 0.35);
+
+  --card-bg: rgba(236, 232, 232, 0.10);
+  --card-border: rgba(255, 255, 255, 0.25);
+
+  --float-bg: rgba(255, 255, 255, 0.18);
+  --float-blur: 20px;
+
+  --text-primary: #16293b;
+  --text-secondary: #555;
+  --btn-bg: #b83b3b;
+  --btn-hover: #9C0000;
+
+  --desc-bg: rgba(236, 234, 234, 0.35);
+  --desc-text: #030303;
+  --dialog-header-bg: rgba(248, 248, 248, 0.15);
+  --dialog-header-text: #333;
+  --legend-bg: rgba(255, 255, 255, 0.15);
+  --legend-border: rgba(255, 255, 255, 0.2);
+  --scrollbar-thumb: rgba(156, 0, 0, 0.12);
+  --tooltip-bg: rgba(255, 255, 255, 0.50);
+  --tooltip-border: rgba(255, 255, 255, 0.35);
+  --tooltip-text: #333;
+  --badge-bg: rgba(255, 255, 255, 0.18);
+
+  --page-bg: #e8e9ec;
+}
+
+/* ================================================
+ * 暗夜主题 — Dark Crimson
+ * 深沉暖黑底 + #9C0000 暗红点缀
+ * ================================================ */
+[data-theme="dark"] {
+  --glass-bg: rgba(28, 24, 24, 0.18);
+  --glass-border: rgba(80, 65, 65, 0.28);
+  --glass-hover-border: rgba(156, 0, 0, 0.50);
+  --glass-blur: 18px;
+  --glass-shadow:
+    0 1px 1px rgba(60, 45, 45, 0.25) inset,
+    0 4px 24px rgba(0, 0, 0, 0.20),
+    0 1px 3px rgba(0, 0, 0, 0.12);
+  --glass-radius: 16px;
+  --glass-hover-shadow:
+    0 1px 1px rgba(80, 55, 55, 0.35) inset,
+    0 6px 28px rgba(0, 0, 0, 0.28),
+    0 0 8px rgba(156, 0, 0, 0.08);
+  --glass-highlight: linear-gradient(
+    135deg,
+    rgba(100, 70, 70, 0.12) 0%,
+    rgba(100, 70, 70, 0.02) 40%,
+    rgba(100, 70, 70, 0.0) 60%,
+    rgba(100, 70, 70, 0.05) 100%
+  );
+
+  --header-bg: rgba(18, 15, 15, 0.30);
+  --header-border: rgba(70, 55, 55, 0.25);
+  --header-blur: 22px;
+  --header-brand: #8a7e7e;
+  --header-text: #8a7e7e;
+  --header-active: #d45050;
+
+  --footer-bg: rgba(18, 15, 15, 0.30);
+  --footer-blur: 18px;
+  --footer-text: #706565;
+  --footer-brand: #8a7e7e;
+
+  --chat-bg: rgba(28, 24, 24, 0.20);
+  --chat-border: rgba(80, 60, 60, 0.22);
+  --chat-msg-bg: rgba(55, 38, 38, 0.50);
+  --chat-msg-border: rgba(90, 60, 60, 0.30);
+  --chat-user-bg: rgba(48, 46, 46, 0.50);
+  --chat-user-border: rgba(75, 72, 72, 0.35);
+
+  --card-bg: rgba(32, 26, 26, 0.15);
+  --card-border: rgba(70, 55, 55, 0.20);
+
+  --float-bg: rgba(24, 20, 20, 0.32);
+  --float-blur: 22px;
+
+  --text-primary: #e8e0dc;
+  --text-secondary: #9a908c;
+  --btn-bg: #c94444;
+  --btn-hover: #9C0000;
+
+  --desc-bg: rgba(45, 35, 35, 0.40);
+  --desc-text: #d4cac6;
+  --dialog-header-bg: rgba(30, 24, 24, 0.22);
+  --dialog-header-text: #d4cac6;
+  --legend-bg: rgba(32, 26, 26, 0.22);
+  --legend-border: rgba(70, 55, 55, 0.22);
+  --scrollbar-thumb: rgba(156, 0, 0, 0.20);
+  --tooltip-bg: rgba(35, 28, 28, 0.60);
+  --tooltip-border: rgba(80, 60, 60, 0.30);
+  --tooltip-text: #e8e0dc;
+  --badge-bg: rgba(45, 35, 35, 0.28);
+
+  --page-bg: #141214;
+}
+
+/* ================================================
+ * 全局应用
+ * ================================================ */
+.leaflet-top.leaflet-left {
+  left: 340px;
+  top: 10px;
+}
+
+.leaflet-bottom.leaflet-left,
+.leaflet-control-attribution,
+.leaflet-control-scale,
+.mars2d-locationbar {
+  display: none !important;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background-color: var(--page-bg);
+  transition: background-color 0.4s ease;
+}

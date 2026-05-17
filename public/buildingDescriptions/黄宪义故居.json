@@ -1,0 +1,20 @@
+{
+  "building_name": "黄宪义故居",
+  "measureName": "黄宪义故居",
+  "city": "南宁市",
+  "county": "上林县",
+  "address": "三里镇政府院内",
+  "A2_content": "黄宪义（1878～1948），上林三里镇人，1930年1月任民国上林县长，故居为民国时期修建，二层红砖制三拱骑楼瓦楼，平面方型，楼梯在外廊里，木质楼梯已塌，二层楼板已腐朽，仅剩下木梁，屋面大部分保存完好，现在作为杂物房使用。",
+  "status": "PASS",
+  "publishTime": "2022-10-18 00:00:00",
+  "cityType": "非名城",
+  "measureFlag": "0",
+  "publishInfo": "已发布",
+  "cityLevel": "自治区级",
+  "disclosureTime": "2022-10-18",
+  "disclosureFlag": "1",
+  "districtCode": "450125000000",
+  "scopeLine1": "{\r\n  \"type\" : \"FeatureCollection\",\r\n  \"crs\" : {\r\n    \"type\" : \"name\",\r\n    \"properties\" : {\r\n      \"name\" : \"EPSG:4490\"\r\n    }\r\n  },\r\n  \"features\" : [\r\n    {\r\n      \"type\" : \"Feature\",\r\n      \"id\" : 5,\r\n      \"geometry\" : {\r\n        \"type\" : \"LineString\",\r\n        \"coordinates\" : [\r\n          [\r\n            108.72250089100004,\r\n            23.528793888000052,\r\n            0\r\n          ],\r\n          [\r\n            108.72260244000006,\r\n            23.528829123000037,\r\n            0\r\n          ],\r\n          [\r\n            108.72265348800005,\r\n            23.528721765000057,\r\n            0\r\n          ],\r\n          [\r\n            108.72254332400007,\r\n            23.528684806000058,\r\n            0\r\n          ],\r\n          [\r\n            108.72250089100004,\r\n            23.528793888000052,\r\n            0\r\n          ]\r\n        ]\r\n      },\r\n      \"properties\" : {\r\n        \"OBJECTID\" : 5,\r\n        \"Entity\" : \"2DPolyline\",\r\n        \"Layer\" : \"01保护范围线\",\r\n        \"Color\" : 10,\r\n        \"Linetype\" : \"DASH\",\r\n        \"Elevation\" : 0,\r\n        \"LineWt\" : 30,\r\n        \"RefName\" : \"黄宪义故居\",\r\n        \"Shape_Length\" : 0.0004596077725166153\r\n      }\r\n    }\r\n  ]\r\n}",
+  "scopeLine2": "{\r\n  \"type\" : \"FeatureCollection\",\r\n  \"crs\" : {\r\n    \"type\" : \"name\",\r\n    \"properties\" : {\r\n      \"name\" : \"EPSG:4490\"\r\n    }\r\n  },\r\n  \"features\" : [\r\n    {\r\n      \"type\" : \"Feature\",\r\n      \"id\" : 6,\r\n      \"geometry\" : {\r\n        \"type\" : \"LineString\",\r\n        \"coordinates\" : [\r\n          [\r\n            108.72272557600007,\r\n            23.528931279000062,\r\n            0\r\n          ],\r\n          [\r\n            108.72287726400003,\r\n            23.528494637000051,\r\n            0\r\n          ],\r\n          [\r\n            108.72255784300006,\r\n            23.528361364000034,\r\n            0\r\n          ],\r\n          [\r\n            108.72251244700004,\r\n            23.528481594000027,\r\n            0\r\n          ],\r\n          [\r\n            108.72244478100004,\r\n            23.528465140000037,\r\n            0\r\n          ],\r\n          [\r\n            108.72243271300005,\r\n            23.528507337000065,\r\n            0\r\n          ],\r\n          [\r\n            108.72245428000008,\r\n            23.52851258100003,\r\n            0\r\n          ],\r\n          [\r\n            108.72231381300008,\r\n            23.528873676000046,\r\n            0\r\n          ],\r\n          [\r\n            108.72249554400008,\r\n            23.528936734000069,\r\n            0\r\n          ],\r\n          [\r\n            108.72251042500005,\r\n            23.528881763000072,\r\n            0\r\n          ],\r\n          [\r\n            108.72272557600007,\r\n            23.528931279000062,\r\n            0\r\n          ]\r\n        ]\r\n      },\r\n      \"properties\" : {\r\n        \"OBJECTID\" : 6,\r\n        \"Entity\" : \"LWPolyline\",\r\n        \"Layer\" : \"02建设空置范围线\",\r\n        \"Color\" : 190,\r\n        \"Linetype\" : \"DASH\",\r\n        \"Elevation\" : 0,\r\n        \"LineWt\" : 30,\r\n        \"RefName\" : \"黄宪义故居\",\r\n        \"Shape_Length\" : 0.0019301246272675867\r\n      }\r\n    }\r\n  ]\r\n}",
+  "source": "GX_Buildings"
+}

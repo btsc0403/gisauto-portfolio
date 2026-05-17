@@ -1,0 +1,37 @@
+{
+  "building_name": "老工商局银行",
+  "measureName": "老工商局银行",
+  "city": "贺州市",
+  "county": "八步区",
+  "build_year": "中华民国（1911-1949年）",
+  "address": "贺州市八步区西约街10号",
+  "A2_content": "民国广东省银行八步办事处旧址位于八步区西约街10号，该建筑建于1924年春，1925年底建成交付使用，属于砖混结构，五层，占地面积375平方米，高度为44.7米。该建筑外观保持较好，窗户稍有破损现象，2005年进行装修，现为工商银行办公楼。 老工商银行广东省银行八步办事处，于1924年设立，最初租用西约街61号办公，1925年底建成使用，是当时整个八步最高、防御最强的建筑。1932年由广西银行八步办事处接管，属于官营性质，资金由广西银行周转，无定额。1935年4月1日改为八步汇兑所广西第二金库八步分库。1939年改为广西银行八步分行，主要业务汇兑、存款、放款、信托和储蓄等。白崇禧两次到贺县，均住在此处下榻。1949年11月21日，中国人民解放军第四十军一一八师抵达贺县，在莲塘与贺东第七游击大队会师进军县城贺街，贺县解放，22日八步解放，“八步西湾治安委员会”成立，办公地点亦设立在此。",
+  "status": "PASS",
+  "publishTime": "2020-12-01 00:00:00",
+  "cityType": "非名城",
+  "measureFlag": "1",
+  "publishInfo": "已发布",
+  "cityLevel": "自治区级",
+  "historicalBuildtFiles": [
+    {
+      "createBy": null,
+      "createTime": null,
+      "updateBy": null,
+      "updateTime": null,
+      "fileHistoricalBuildId": "1559479293554024449",
+      "fileId": "FILE202206220063",
+      "fileName": "贺州市人民政府关于公布贺州市第二批历史建筑名单的通知.pdf",
+      "fileTypeId": "bdrIsHistoryBuildFileFileSeq",
+      "fileType": "是否已批准公布为历史建筑",
+      "filePath": "/data/iui/web/upload/5c81e723fb794b4a8c49b629d9540024.pdf",
+      "fileExt": "pdf",
+      "fileSpace": null,
+      "fileUserId": null,
+      "fileUserName": null
+    }
+  ],
+  "disclosureTime": "2020-12-01",
+  "disclosureFlag": "1",
+  "districtCode": "451102000000",
+  "source": "GX_Buildings"
+}

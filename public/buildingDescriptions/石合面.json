@@ -1,0 +1,53 @@
+{
+  "building_name": "石合面",
+  "measureName": "石合面",
+  "city": "贺州市",
+  "county": "钟山县",
+  "build_year": "清（1644-1911年）",
+  "address": "钟山县红花镇铜盆自然村东",
+  "A2_content": "该寺庙位于红花镇铜盆自然村东。面阔三间宽14米，深两进加天井24.75米，青砖砌墙，小青瓦盖顶，硬山式顶，总面积345.8平方米。该庙始建于清道光年间，为铜盆麦岭人所建，寺庙前门楼，前设廊坊，后两旁设小房，中为天井，天井两旁设回廊。后三间为供奉铜盆 麦岭祖先之神位。该寺庙主要是铜盆 麦岭族人祭祀先祖所用。",
+  "status": "PASS",
+  "publishTime": "2021-12-14 00:00:00",
+  "cityType": "非名城",
+  "measureFlag": "1",
+  "publishInfo": "已发布",
+  "cityLevel": "自治区级",
+  "historicalBuildtFiles": [
+    {
+      "createBy": null,
+      "createTime": null,
+      "updateBy": null,
+      "updateTime": null,
+      "fileHistoricalBuildId": "BUILD202206180219",
+      "fileId": "FILE202206220585",
+      "fileName": "钟政发〔2021〕11号 钟山县人民政府关于公布钟山县第一批历史建筑名单的通知 - 县政府文件 - 广西贺州市钟山县人民政府门户网站 - www.gxzs.gov.cn.pdf",
+      "fileTypeId": "bdrIsHistoryBuildFileFileSeq",
+      "fileType": "是否已批准公布为历史建筑",
+      "filePath": "/data/iui/web/upload/0a003510a7684ad19566cdf88a5efca4.pdf",
+      "fileExt": "pdf",
+      "fileSpace": null,
+      "fileUserId": null,
+      "fileUserName": null
+    },
+    {
+      "createBy": null,
+      "createTime": null,
+      "updateBy": null,
+      "updateTime": null,
+      "fileHistoricalBuildId": "BUILD202206180219",
+      "fileId": "FILE202206220586",
+      "fileName": "IMG_20220105_163426.jpg",
+      "fileTypeId": "bdrIsHistoryBuildFileFileSeq",
+      "fileType": "是否已批准公布为历史建筑",
+      "filePath": "/data/iui/web/upload/225a5a9eb2204f3bafceb0ac7f085cb1.jpg",
+      "fileExt": "jpg",
+      "fileSpace": null,
+      "fileUserId": null,
+      "fileUserName": null
+    }
+  ],
+  "disclosureTime": "2021-12-14",
+  "disclosureFlag": "1",
+  "districtCode": "451122000000",
+  "source": "GX_Buildings"
+}

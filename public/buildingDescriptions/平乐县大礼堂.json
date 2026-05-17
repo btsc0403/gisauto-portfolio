@@ -1,0 +1,73 @@
+{
+  "building_name": "平乐县大礼堂",
+  "measureName": "平乐县大礼堂",
+  "requestName": "管理员",
+  "requestDate": "2024-08-13 15:50:23",
+  "buildArea": 30.0,
+  "city": "桂林市",
+  "county": "平乐县",
+  "build_year": "清（1644-1911年）",
+  "address": "平乐镇中华街16号财政局大楼对面",
+  "status": "PASS",
+  "publishTime": "2024-08-21 10:44:15",
+  "buildingApproval": "已批准",
+  "signTab": "未挂牌",
+  "cityType": "国家历史文化名城",
+  "measureFlag": "0",
+  "publishInfo": "未发布",
+  "cityLevel": "自治区级",
+  "historicalBuildtFiles": [
+    {
+      "createBy": "admin",
+      "createTime": "2025-01-10 11:54:27",
+      "updateBy": "admin",
+      "updateTime": "2025-01-10 11:54:27",
+      "fileHistoricalBuildId": "17037222182236733460",
+      "fileId": "1877564637938827266",
+      "fileName": "南宁市住房和城乡建设局关于组织参加2022年和十四五保障性安居工程目标任务计划编报电视电话会议的通知.pdf",
+      "fileTypeId": null,
+      "fileType": "公布文件",
+      "filePath": "b0c0fb26632d4937ad35618ce3e7ea86.pdf",
+      "fileExt": null,
+      "fileSpace": null,
+      "fileUserId": null,
+      "fileUserName": null
+    },
+    {
+      "createBy": "admin",
+      "createTime": "2025-01-10 11:54:27",
+      "updateBy": "admin",
+      "updateTime": "2025-01-10 11:54:27",
+      "fileHistoricalBuildId": "17037222182236733460",
+      "fileId": "1877564638458920961",
+      "fileName": "南宁市住房和城乡建设局关于组织参加2022年和十四五保障性安居工程目标任务计划编报电视电话会议的通知.pdf",
+      "fileTypeId": null,
+      "fileType": "挂牌照片",
+      "filePath": "73e96c344c4243579c1c43238ff9ab12.pdf",
+      "fileExt": null,
+      "fileSpace": null,
+      "fileUserId": null,
+      "fileUserName": null
+    }
+  ],
+  "sign": "MEUCIENhrI8cPeCUDT/cSrawV/bhTDLFcFC+Uw6tSSpyX/WZAiEApPqutBTs4BUiZ9Xqv4Qtb+B9Gu8sEwvaf4BDFOglxJc=",
+  "districtCode": "450330000000",
+  "historicalBuildImages": [
+    {
+      "createBy": "admin",
+      "createTime": "2025-01-10 00:00:00",
+      "updateBy": "admin",
+      "updateTime": "2025-01-10 00:00:00",
+      "imageMeasureId": "17037222182236733460",
+      "imageId": "1877564641860501506",
+      "imageName": "e88b27550495d06a041a7854fcd07b8c.jpg",
+      "imageAuthor": null,
+      "imageDate": null,
+      "imagePath": "4825a9ba227d497a82ac56a89664bf6e.jpg",
+      "imageType": "正立面"
+    }
+  ],
+  "source": "GX_Buildings",
+  "A2_content": "平乐县大礼堂位于桂林市平乐县平乐镇中华街16号，为清代（1644-1911年）所建，现存建筑面积约30平方米。建筑地处湘桂古道与桂江水运交汇地带，属平乐府治核心区，其选址反映了清代地方公共建筑的典型区位特征。主体结构推测为砖木混合体系，可能采用穿斗式木构架与青砖围护墙结合的做法，屋面形式或为当地常见的硬山双坡顶，檐口装饰可能带有湘赣与岭南交融的简朴纹样。作为清代平乐府遗留的公共活动场所，其空间布局与建筑形制体现了清代桂北地区官署附属建筑的实用性与地域适应性，虽未挂牌保护，但为研究清代桂江流域行政中心建筑类型及湘桂古道文化传播提供了实物例证。建筑现状保存情况需进一步测绘评估。",
+  "valueIntroduction": "平乐县大礼堂位于桂林市平乐县平乐镇中华街16号，为清代（1644-1911年）所建，现存建筑面积约30平方米。建筑地处湘桂古道与桂江水运交汇地带，属平乐府治核心区，其选址反映了清代地方公共建筑的典型区位特征。主体结构推测为砖木混合体系，可能采用穿斗式木构架与青砖围护墙结合的做法，屋面形式或为当地常见的硬山双坡顶，檐口装饰可能带有湘赣与岭南交融的简朴纹样。作为清代平乐府遗留的公共活动场所，其空间布局与建筑形制体现了清代桂北地区官署附属建筑的实用性与地域适应性，虽未挂牌保护，但为研究清代桂江流域行政中心建筑类型及湘桂古道文化传播提供了实物例证。建筑现状保存情况需进一步测绘评估。"
+}

